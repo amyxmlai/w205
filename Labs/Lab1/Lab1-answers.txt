@@ -6,4 +6,4 @@
 
 In contrast, reserved instances are not marked by time-dependent price fluctuations and are not subject to performance interruptions. For reserved instances, users can purchase a reserved instance at a fixed price that is determined by instance attribute, term commitment, and payment option. A reserved instance is purchased for 1 or 3 years and allows users to specify and adjust capacity reservations during that time. For example, when workload requirements change, a reserved instance provides users with the flexibility (without additional charge) to modify various features of their capacity reservations. Thus, unlike spot instances, reserved instances may be more appropriate for longer-term workloads whose capacity requirements may be more predictable.
 
-4. 
+4. iPython, pgxl development tools, Hadoop, and Streamparse
